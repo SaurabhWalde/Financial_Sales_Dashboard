@@ -1,4 +1,4 @@
-# Task 4: Financial Sales Dashboard
+# Financial Sales Dashboard
 
 ## 📊 Dashboard Overview
 This interactive Power BI dashboard analyzes financial sales data across regions, products, and sales representatives to provide actionable business insights.
